@@ -1,0 +1,8 @@
+---
+layout: default
+img: reel.jpg
+category: Services
+title: Our best reed. Ever.
+description: |
+---
+From beebop to blues, our patent pending ComposiReed™ technology keeps your charts swingin', and your reeds buzzing. This breakthrough material technology elevates your sound, so you can focus on the music.

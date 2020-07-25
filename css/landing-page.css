@@ -26,13 +26,18 @@ h6 {
     font-weight: 400;
 }
 
+.fullwidth{
+    padding-top: 2em;
+    width:100%
+}
+
 .intro-header {
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg.jpg) no-repeat center center;
-    background-size: cover;
+    /*background: url(../img/reeds_t.png) no-repeat center center;
+    background-size: cover;*/
 }
 
 .intro-message {
@@ -116,10 +121,23 @@ h6 {
     background-size: cover;
 }
 
-.banner h2 {
+.banner h2{
     margin: 0;
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
-    font-size: 3em;
+    /*text-shadow: 2px 2px 3px rgba(0,0,0,0.6);*/
+    font-size: 3.0em;
+}
+
+#about h1{
+    font-size: 5.5em;
+}
+
+#about h2{
+    font-size: 3.0em;
+    background-repeat: no-repeat;
+    background-image: -webkit-linear-gradient(left, #ffaa00 10%,#868686 75%);
+    background-size:cover;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .banner ul {

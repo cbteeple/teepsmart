@@ -1,0 +1,8 @@
+---
+layout: default
+img: laugh.jpg
+category: Services
+title: A reed with serious chops.
+description: |
+---
+  The reed's tapered tip is contoured to work in perfect harmony with your instrument.

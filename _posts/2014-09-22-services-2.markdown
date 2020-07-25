@@ -1,10 +1,8 @@
 ---
 layout: default
-img: dog.png
+img: reeds_lots.jpg
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: The most consistent reeds ever made.
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+Because each reed is manufactured from scratch in a controlled environment, you can be sure every reed in your pack is a winner. Consistent reeds mean you can get the perfect sound every time.

@@ -1,8 +1,9 @@
 ---
 layout: default
-img: ipad.png
+img: printer.jpg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Innovation in every layer.
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+
+Reeds Pro are precision machined using our custom additive manufacturing process. Molten material is pressed through a mobile nozzle and deposited with sub-millimeter accuracy in the right place. Once each single layer is finished, we effortlessly apply the next layer automatically.
