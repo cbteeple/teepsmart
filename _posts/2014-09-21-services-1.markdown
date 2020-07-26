@@ -1,9 +1,10 @@
 ---
 layout: default
 img: printer.jpg
+img_fullwidth: reeds_profile.jpg
 category: Services
 title: Innovation in every layer.
 description: |
 ---
 
-Reeds Pro are precision machined using our custom additive manufacturing process. Molten material is pressed through a mobile nozzle and deposited with sub-millimeter accuracy in the right place. Once each single layer is finished, we effortlessly apply the next layer automatically.
+Reeds Pro are precision machined using our custom additive manufacturing process. Molten material is pressed through a mobile nozzle and deposited with sub-millimeter accuracy in layers as thin as a human hair. Once each single layer is finished, we effortlessly apply the next layer automatically.

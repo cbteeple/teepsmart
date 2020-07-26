@@ -28,7 +28,11 @@ h6 {
 
 .fullwidth{
     padding-top: 2em;
-    width:100%
+    width:90%
+}
+
+.img-responsive{
+    border-radius: 10px;
 }
 
 .intro-header {
@@ -117,7 +121,7 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/banner-bg.jpg) no-repeat center center;
+    background: url(../img/reeds_lots.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -134,7 +138,8 @@ h6 {
 #about h2{
     font-size: 3.0em;
     background-repeat: no-repeat;
-    background-image: -webkit-linear-gradient(left, #ffaa00 10%,#868686 75%);
+    /*background-image: -webkit-linear-gradient(left, #ffaa00 10%,#868686 75%); */
+    background-image: -webkit-linear-gradient(left, #dd9900 15%, #a4a4a4 30%,#8ba402 60%,#e16800 85%);
     background-size:cover;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -171,6 +176,10 @@ h6 {
 
     ul.banner-social-buttons > li:last-child {
         margin-bottom: 0;
+    }
+
+    .fullwidth{
+    width:100%
     }
 }
 
