@@ -5,4 +5,4 @@ category: Services
 title: Express yourself.
 description: |
 ---
-Hand-selected color options to match your personal style and elevate your groove.
+Hand-selected color options to match your personal style and accentuate your groove.

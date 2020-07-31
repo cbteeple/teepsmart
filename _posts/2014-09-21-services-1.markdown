@@ -7,4 +7,4 @@ title: Innovation in every layer.
 description: |
 ---
 
-Reeds Pro are precision machined using our custom additive manufacturing process. Molten material is pressed through a mobile nozzle and deposited with sub-millimeter accuracy in layers as thin as a human hair. Once each single layer is finished, we effortlessly apply the next layer automatically.
+Reed Pros are precision machined using our custom additive manufacturing process. Molten material is pressed through a mobile nozzle and deposited with sub-millimeter accuracy in layers as thin as a human hair. Once each single layer is finished, we effortlessly apply the next layer automatically.
